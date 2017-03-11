@@ -113,12 +113,14 @@ body{
     position: absolute;
     right: 14.5%;
     bottom: 0%;
+    filter: drop-shadow(-5px 0 6px #222);
 }
 
 .slider_img2 {
     position: absolute;
     right: 0;
     bottom: 0%;
+    filter: drop-shadow(-5px 0 6px #222);
 }
 
 .slider_text{
